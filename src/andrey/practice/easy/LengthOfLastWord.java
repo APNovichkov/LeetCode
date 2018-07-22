@@ -4,7 +4,7 @@ public class LengthOfLastWord {
 
 	public static void main(String[] args) {
 		String phrase = "a";
-		
+
 		System.out.println("The length of the last word in phrase: " + phrase + " is: " + lengthOfLastWord(phrase));
 
 	}
